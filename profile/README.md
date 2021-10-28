@@ -1,12 +1,6 @@
-### ""Internal"" todo, will remove when published 
-- add more opinions
-- that is all i can think of right now
-- also hi random person who's going through the commit history on #1, how are you
-
----
 # Welcome to the Definity GitHub profile
 We make things that [respect humanity](#respecting-humanity). But we're more than that:
-- We've got wild opinions. Some of us call it [free/libre software](https://www.gnu.org/philosophy/free-sw.html), while others call it [open source software](https://opensource.org/osd). 
+- We've definitely got opinions. Some of us call it [free/libre software](https://www.gnu.org/philosophy/free-sw.html), while others call it [open source software](https://opensource.org/osd). We plan to put more opinions into the spotlight in the future, and we'll add some more cool differing opinions here when we find more exist in our company.
 - We try not to take ourselves too seriously. [A look on our Twitter can show you that](https://twitter.com/DefinityORG) (assuming we've actually posted something there in the past 6 months, of course.)
 
 ## Respecting Humanity
