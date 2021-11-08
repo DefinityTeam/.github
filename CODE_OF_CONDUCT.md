@@ -1,5 +1,5 @@
 # Definity Contributor Code of Conduct
-
+## Preamble
 This code of conduct outlines expectations for participation in Definity-managed open source communities, as well as steps for reporting unacceptable behavior. People violating this code of conduct may be banned from the community.
 
 ## Our Pledge
@@ -33,43 +33,36 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 This Code of Conduct also applies to actions taken outside of these spaces, and which have a negative impact on community health.
 
-## Enforcement <!-- todo [L]: make reporting conduct violations its own email + get authorized independent reviewers -->
-
+## Enforcement
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [support@definityteam.com](support@definityteam.com). All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
 ## Enforcement Guidelines
-
 Community leaders will follow these Community Impact Guidelines in determining
 the consequences for any action they deem in violation of this Code of Conduct:
 
 ### 1. Correction
-
 **Community Impact**: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
 
 **Consequence**: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
 
 ### 2. Warning
-
 **Community Impact**: A violation through a single incident or series of actions.
 
 **Consequence**: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.
 
 ### 3. Temporary Ban
-
 **Community Impact**: A serious violation of community standards, including sustained inappropriate behavior.
 
 **Consequence**: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
 
 ### 4. Permanent Ban
-
 **Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior,  harassment of an individual, or aggression toward or disparagement of classes of individuals.
 
 **Consequence**: A permanent ban from any sort of public interaction within the community.
 
 ## Attribution
-
 This Code of Conduct is adapted from
   a) the Microsoft Open Source Code of Conduct, available at https://opensource.microsoft.com/codeofconduct,
   b) the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
@@ -79,3 +72,5 @@ Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcem
 Expanding scope to include external impact on community health inspired by [Facebook's Open Source Code of Conduct](https://opensource.facebook.com/code-of-conduct) and [Mozilla's Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation).
 
 For answers to common questions about the [Contributor Covenant](https://www.contributor-covenant.org) code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. [Contributor Covenant](https://www.contributor-covenant.org) translations are available at https://www.contributor-covenant.org/translations.
+
+The Microsoft Open Source Code of Conduct is under the MIT license, viewable at https://opensource.microsoft.com/LICENSE. The Contributor Covenant is under the Creative Commons Attribution 4.0 International Public License, viewable at https://creativecommons.org/licenses/by/4.0/legalcode.
