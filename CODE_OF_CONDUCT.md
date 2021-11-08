@@ -1,6 +1,6 @@
 # Definity Contributor Code of Conduct
 ## Preamble
-This code of conduct outlines expectations for participation in Definity-managed open source communities, as well as steps for reporting unacceptable behavior. People violating this code of conduct may be banned from the community.
+This code of conduct outlines expectations for participation in Definity-managed communities, as well as steps for reporting unacceptable behavior. People violating this code of conduct may be banned from the community.
 
 ## Our Pledge
 We as members, contributors, and leaders pledge to make participation in our community an open, welcoming, inspiring, diverse, inclusive, healthy, and harassment-free community for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation. We pledge to act, interact, and provide in ways that contribute to it.
@@ -34,7 +34,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 This Code of Conduct also applies to actions taken outside of these spaces, and which have a negative impact on community health.
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [support@definityteam.com](support@definityteam.com). All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [support@definityteam.com](mailto:support@definityteam.com). All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
