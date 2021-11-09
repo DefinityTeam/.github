@@ -3,7 +3,7 @@
 This code of conduct outlines expectations for participation in Definity-managed communities, as well as steps for reporting unacceptable behavior. People violating this code of conduct may be banned from the community.
 
 ## Our Pledge
-We as members, contributors, and leaders pledge to make participation in our community an open, welcoming, inspiring, diverse, inclusive, healthy, and harassment-free community for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation. We pledge to act, interact, and provide in ways that contribute to it.
+We as members, contributors, and leaders pledge to make participation in our community a welcoming and harassment-free community for everyone, regardless of age, disability, gender identity and expression, level of experience, nationality, personal appearance, race, religion, sexual identity and orientation, or numerous other diversifying features. We pledge to act, interact, and provide in ways that contribute to it.
 
 ## Our Standards
 Examples of behavior that contributes to a positive environment for our community include:
@@ -19,7 +19,7 @@ Examples of unacceptable behavior include:
 * The use of sexualized language or imagery, and sexual attention or advances of any kind
 * Trolling, insulting or derogatory comments, and personal or political attacks
 * Public or private harassment
-* Disruptive behavior
+* Disruptive behavior, such as harassment, unnecessary hostility, and starting unneeded arguments
 * Publishing others' private information, such as a physical or email address, without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
@@ -34,13 +34,12 @@ This Code of Conduct applies within all community spaces, and also applies when 
 This Code of Conduct also applies to actions taken outside of these spaces, and which have a negative impact on community health.
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [support@definityteam.com](mailto:support@definityteam.com). All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [support@definityteam.com](mailto:support@definityteam.com). All complaints will be reviewed and investigated promptly and fairly. Your report should include the username of the user, a screenshot or direct link to what you are complaining about and why you believe this is in violation of our Code of Conduct, and, if possible, what section of it.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
 ## Enforcement Guidelines
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
 
 ### 1. Correction
 **Community Impact**: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
