@@ -3,7 +3,7 @@
 This code of conduct outlines expectations for participation in Definity-managed communities, as well as steps for reporting unacceptable behavior. People violating this code of conduct may be banned from the community.
 
 ## Our Pledge
-We as members, contributors, and leaders pledge to make participation in our community a welcoming and harassment-free community for everyone, regardless of age, disability, gender identity, race, religion, sexual identity and orientation, or numerous other diversifying features. We pledge to act, interact, and provide in ways that contribute to it.
+We as members, contributors, and leaders pledge to make participation in our community welcoming and harassment-free for everyone, regardless of age, disability, gender identity, race, religion, sexual identity and orientation, or numerous other diversifying features. We pledge to act, interact, and provide in ways that contribute.
 
 ## Our Standards
 Examples of behavior that contributes to a positive environment for our community include:
@@ -66,9 +66,9 @@ This Code of Conduct is adapted from
   a) the Microsoft Open Source Code of Conduct, available at https://opensource.microsoft.com/codeofconduct,
   b) the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
-Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
+Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/inclusion).
 
-Expanding scope to include external impact on community health inspired by [Facebook's Open Source Code of Conduct](https://opensource.facebook.com/code-of-conduct) and [Mozilla's Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation).
+Expanding scope to include external impact on community health inspired by [Facebook's Open Source Code of Conduct](https://opensource.fb.com/code-of-conduct) and [Mozilla's Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation).
 
 For answers to common questions about the [Contributor Covenant](https://www.contributor-covenant.org) code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. [Contributor Covenant](https://www.contributor-covenant.org) translations are available at https://www.contributor-covenant.org/translations.
 
