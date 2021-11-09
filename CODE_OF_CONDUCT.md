@@ -3,7 +3,7 @@
 This code of conduct outlines expectations for participation in Definity-managed communities, as well as steps for reporting unacceptable behavior. People violating this code of conduct may be banned from the community.
 
 ## Our Pledge
-We as members, contributors, and leaders pledge to make participation in our community a welcoming and harassment-free community for everyone, regardless of age, disability, gender identity and expression, level of experience, nationality, personal appearance, race, religion, sexual identity and orientation, or numerous other diversifying features. We pledge to act, interact, and provide in ways that contribute to it.
+We as members, contributors, and leaders pledge to make participation in our community a welcoming and harassment-free community for everyone, regardless of age, disability, gender identity, race, religion, sexual identity and orientation, or numerous other diversifying features. We pledge to act, interact, and provide in ways that contribute to it.
 
 ## Our Standards
 Examples of behavior that contributes to a positive environment for our community include:
