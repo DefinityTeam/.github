@@ -6,4 +6,5 @@ Here is the current list of languages supported
 | `en-*` | English (all) |
 | `hu` | Hungarian |
 | `cnm` | Mandarin (Simplified Chinese) | <br>
+
 While we appreciate that having products in many languages will allow for better usage, we simply cannot support a language that we cannot provide support in. 
