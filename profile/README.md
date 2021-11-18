@@ -18,7 +18,8 @@ We respect humanity by working to ensure:
   <li align="justify"><b>We aim to create software that helps you, while also keeping the organization alive.</b> Our service hosting is always provided by companies that commit to user experience and the environment.</li>
   <li align="justify"><b>We aim to keep all software, firmware, hardware and documents that we create and recieve publicly available</b> (or, if possible, redistributable). This includes internal organization deals. We keep everything as transparent as possible, so you can ensure that we aren't doing anything that may hurt you</li>
   <li align="justify"><b>We aim to keep prices affordable for everybody.</b> No matter what the country, financial situation or anything else that could affect a purchase, you should be able to use the things we make for people. We try to create free trials so people can test out any of our paid services, however we try to keep a free version available to everyone where possible and affordable.</li>
-<li align="justify"><b>We aim to create the best possible work experience for our employees/volunteers.</b> We allow them to work their own hours and take breaks, keeping them motivated. We encourage any and all who work with us to speak out if they have a problem.</li>
+  <li align="justify"><b>We aim to create the best possible work experience for our employees/volunteers.</b> We allow them to work their own hours and take breaks, keeping them motivated. We encourage any and all who work with us to speak out if they have a problem.</li>
+</ul>
 
 ## License
 Copying and distribution of this file, with or without modification, are permitted in any medium without royalty provided the copyright notice and this notice are preserved.  This file is offered as-is, without any warranty.
