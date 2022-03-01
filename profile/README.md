@@ -1,19 +1,12 @@
-# Welcome to the Definity GitHub profile
-<p align="justify">We make things that <a href="#respecting-humanity">respect humanity</a>. But we're more than that:</p>
-<ul>
-  <li align="justify">We've definitely got opinions. Some of us call it <a href="https://www.gnu.org/philosophy/free-sw.html">free/libre software</a>, while others call it <a href="https://opensource.org/osd">open source software</a>. We plan to put more opinions into the spotlight in the future, and we'll add some more cool differing opinions here when we find more exist in our organization.</li>
-  <li align="justify">We try not to take ourselves too seriously. A look on our <a href="https://twitter.com/DefinityORG">Twitter</a> or <a href="https://mastodon.social/@definity">Mastodon</a> can show you that (assuming we've actually posted something there in the past 6 months, of course.)</li>
-</ul>
-
-## Respecting Humanity
-We respect humanity by working to ensure:
+# :wave: Welcome to the Definity GitHub profile
+<p align="justify">We make things that <a href="#respecting-humanity">respect humanity</a>. We do that by working to ensure the following:
 <ul>
   <li align="justify"><b>Your right to privacy.</b> This right is what we were founded on. Most software today is not private-- and there are too many cases to even list here, but the most basic, and sadly common, is selling <i>your</i> data to the highest bidder. At Definity, we find these practices <i>unacceptable</i>. So not only do we make things that you can verify are truly protecting your privacy, but we also go the extra mile and help make and support new emerging standards that are genuinely good for your privacy.</li>
   <li align="justify"><b>Your right to breathe.</b> This right is important to not just us, but <i>many</i> other companies. It's important to recognize that everyone directly *and* indirectly hurts ourselves and our environment, but even more so to recognize it and do something about it. At Definity, we keep the environment in mind when we make things, and aim for green wherever possible. If we can't go green yet, we'll plan it out and make sure getting to that stage is a high priority.</li>
   <li align="justify"><b>Your right to exist.</b> Even if you don't like a certain group of people, we believe there is no excuse or reason that would validate the death or censorship of someone solely based upon their skin colo(u)r, sexual orientation, nor anything else that diversifies a human being. We recognize that other companies solely say these things for the pride marketing, and that's horribly appalling. We'll donate and help out wherever we can, even when it's not Juneteenth.</li>
 </ul>
 
-## Our Aims
+Definity has these four aims:
 <ul>
   <li align="justify"><b>We aim to create software that helps you, while also keeping the organization alive.</b> Our service hosting is always provided by companies that commit to user experience and the environment.</li>
   <li align="justify"><b>We aim to keep all software, firmware, hardware and documents that we create and recieve publicly available</b> (or, if possible, redistributable). This includes internal organization deals. We keep everything as transparent as possible, so you can ensure that we aren't doing anything that may hurt you.</li>
