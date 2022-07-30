@@ -1,5 +1,5 @@
 # :wave: Welcome to the Definity GitHub profile
-<p align="justify">We make things that <a href="#respecting-humanity">respect humanity</a>. We do that by working to ensure the following:
+<p align="justify">We make things that we think are pretty cool. We work to ensure the following while making those things:
 <ul>
   <li align="justify"><b>Your right to privacy.</b> This right is what we were founded on. Most software today is not private-- and there are too many cases to even list here, but the most basic, and sadly common, is selling <i>your</i> data to the highest bidder. At Definity, we find these practices <i>unacceptable</i>. So not only do we make things that you can verify are truly protecting your privacy, but we also go the extra mile and help make and support new emerging standards that are genuinely good for your privacy.</li>
   <li align="justify"><b>Your right to breathe.</b> This right is important to not just us, but <i>many</i> other companies. It's important to recognize that everyone directly *and* indirectly hurts ourselves and our environment, but even more so to recognize it and do something about it. At Definity, we keep the environment in mind when we make things, and aim for green wherever possible. If we can't go green yet, we'll plan it out and make sure getting to that stage is a high priority.</li>
